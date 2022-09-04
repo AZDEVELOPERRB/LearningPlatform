@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1097311739899",
+    "project_id": "learningplatform-90b7a",
+    "storage_bucket": "learningplatform-90b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097311739899:android:619979ec63983f249e355e",
+        "android_client_info": {
+          "package_name": "com.royalboardcompany.learningplatform_rb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097311739899-joqml6qm1n33le8p62u2ddo1uhsq477j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.royalboardcompany.learningplatform_rb",
+            "certificate_hash": "e536a6ddfbb4ec1e7994b8a36f09b92e862fc1ce"
+          }
+        },
+        {
+          "client_id": "1097311739899-8lmh0a1uebp0l6js1hbgf9ggimtcl7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmuXuVV6bi3GZLa17bTZuScU1C52HpZHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097311739899-8lmh0a1uebp0l6js1hbgf9ggimtcl7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
